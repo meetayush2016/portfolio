@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.85d11caa.css",
+    "main.js": "/portfolio/static/js/main.a96d2b64.js",
+    "static/media/heroImage.png": "/portfolio/static/media/heroImage.3b1ef1c39e697998bb57.png",
+    "static/media/grass.png": "/portfolio/static/media/grass.c58a0668eab8f7d3b9eb.png",
+    "static/media/car.png": "/portfolio/static/media/car.23b6371a3abe1f00c9b2.png",
+    "static/media/dog.png": "/portfolio/static/media/dog.93ff8469801bb20ec9b7.png",
+    "static/media/fly.png": "/portfolio/static/media/fly.a3c7189bfe73bfef06a1.png",
+    "static/media/keyboard.png": "/portfolio/static/media/keyboard.ddd9bb30f0f1f8624cbe.png",
+    "static/media/bridg.png": "/portfolio/static/media/bridg.c305ccd805ea5d00e00f.png",
+    "static/media/figmaa.png": "/portfolio/static/media/figmaa.90eb21ce643748e3b320.png",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/javaa.png": "/portfolio/static/media/javaa.6c64373d3b7415758078.png",
+    "index.html": "/portfolio/index.html",
+    "main.85d11caa.css.map": "/portfolio/static/css/main.85d11caa.css.map",
+    "main.a96d2b64.js.map": "/portfolio/static/js/main.a96d2b64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85d11caa.css",
+    "static/js/main.a96d2b64.js"
+  ]
+}
